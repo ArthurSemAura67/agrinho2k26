@@ -1,6 +1,6 @@
 body{
-    color: white;
-    background-color:  #2ecc71;
+    color: rgb(204, 17, 17);
+    background-color:  #ff00ae;
 }
 ul{
     display: flex;
